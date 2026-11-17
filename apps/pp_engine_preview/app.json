@@ -1,0 +1,12 @@
+{
+  "id": "pp_engine_preview",
+  "version": "0.2.0",
+  "title": "PP DATA",
+  "description": "Read-only live engine and vehicle readings on iDrive 8.",
+  "mguHmi": [
+    "ID8"
+  ],
+  "requires": {
+    "mgu-deploy": "0.7.5"
+  }
+}
