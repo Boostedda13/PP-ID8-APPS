@@ -1,6 +1,6 @@
 {
   "id": "pp_engine_preview",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "title": "PP DATA",
   "description": "Live engine readings, fuel and air, trips, and read-only vehicle diagnostics for iDrive 8.",
   "mguHmi": [
