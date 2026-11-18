@@ -14,5 +14,10 @@ with the engine off. The compact Settings panel sits at the lower left and
 offers Metric or SAE units, gauge maxima, and optional warning and alarm
 thresholds.
 
+Enable **MHD strip** in Settings to show one-tap Map, Exhaust and Max Cooling
+controls above the Engine gauges. The strip defaults to off and requires a
+compatible MHD tune. A highlighted button shows the last command acknowledged
+by the engine controller. Max Cooling On requires a fresh reading above 500 rpm.
+
 The catalog carries the app's source archive. The Store links it
 against the head unit's OAP SDK during installation.
