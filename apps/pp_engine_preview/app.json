@@ -1,6 +1,6 @@
 {
   "id": "pp_engine_preview",
-  "version": "0.2.14",
+  "version": "0.2.15",
   "title": "PP DATA",
   "description": "Live engine readings, fuel and air, and fault diagnostics for iDrive 8.",
   "mguHmi": [
